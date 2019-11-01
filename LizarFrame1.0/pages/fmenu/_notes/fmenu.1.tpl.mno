@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_recorset" value="name:id;datatype:int,name:nodo;datatype:int,name:nodopadre;datatype:int,name:nombre;datatype:string,name:recurso;datatype:string,name:titulo;datatype:string,name:nombreframe;datatype:string,name:imagen;datatype:string" />
+</info>
